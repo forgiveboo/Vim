@@ -1,2 +1,2 @@
-# Vim
-My Vim Config
+# Arch Linux Config
+My config
